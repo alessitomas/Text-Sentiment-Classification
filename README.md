@@ -28,6 +28,9 @@ This project is part of an intermediate AI exam focused on understanding and imp
 ## Project Structure
 
 - **`main.ipynb`**: This Jupyter Notebook contains all the code for data preprocessing, classifier pipelines, evaluation, and topic modeling. Each section of the assessment is implemented within this notebook, making it easy to follow along with the classification process.
+
+- **`Report.pdf/`**: PDF containing methods and results.
+
   
 - **`data/`**: The dataset files used for training and evaluation, including the processed Sentiment140 dataset.
 
