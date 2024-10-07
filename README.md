@@ -31,10 +31,7 @@ This project is part of an intermediate AI exam focused on understanding and imp
 
 - **`Report.pdf`**: PDF containing methods and results.
 
-  
 - **`data/`**: The dataset files used for training and evaluation, including the processed Sentiment140 dataset.
-
-- **`models/`**: Directory for saving trained models or model artifacts for reuse.
 
 - **`results/`**: Directory containing evaluation results, such as accuracy scores, confusion matrices, and learning curves.
 
